@@ -11,6 +11,7 @@ pylint = "*"
 flask-migrate = "*"
 flask-api = "*"
 "autopep8" = "*"
+flask-script = "*"
 
 [dev-packages]
 
