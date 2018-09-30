@@ -8,6 +8,9 @@ flask-sqlalchemy = "*"
 pytest = "*"
 pylint = "*"
 "psycopg2" = "*"
+flask-migrate = "*"
+flask-api = "*"
+"autopep8" = "*"
 
 [dev-packages]
 
