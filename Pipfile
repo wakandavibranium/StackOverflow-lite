@@ -12,6 +12,7 @@ flask-migrate = "*"
 flask-api = "*"
 "autopep8" = "*"
 flask-script = "*"
+flask-testing = "*"
 
 [dev-packages]
 
